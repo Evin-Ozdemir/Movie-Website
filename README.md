@@ -10,12 +10,6 @@
 https://github.com/user-attachments/assets/29059e2f-aea8-46b4-8bc6-ca0c030d4cd7
 
 
-
-
-https://github.com/user-attachments/assets/85abd6f6-e83d-461a-9f61-6c589235ed2b
-
-
-
 <h2>🛠️ Technologies Used</h2>
  <ul>
    <li>HTML5: For structuring the web interface.</li>
