@@ -7,11 +7,7 @@
  <p>A quick preview of the Movie Website interface with movies fetched via the API.</p>
 
 
-![Zight Recording 2024-11-20 at 04 33 30 PM](https://github.com/user-attachments/assets/58d452fb-6668-4d5a-b106-eda9f1865cdc)
-
-
-
-
+https://github.com/user-attachments/assets/29059e2f-aea8-46b4-8bc6-ca0c030d4cd7
 
 
 <h2>🛠️ Technologies Used</h2>
